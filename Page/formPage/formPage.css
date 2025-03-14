@@ -1,0 +1,13 @@
+main {
+    background-color: #C5CAE9;
+    height: 100vh;
+    display: flex;
+    align-items: end;  
+}
+
+.container {
+    padding-bottom: 12rem;
+    background-color: #3F51B5;
+    opacity: 80%;
+    color: #FFFFFF;
+}
